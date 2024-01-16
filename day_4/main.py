@@ -9,7 +9,7 @@ enemy_name = input("What is your worst enemy name? ")
 superpower = input("What is your superpower? ")
 area = input("Where do you live? ")
 food = input("What is your favorite food? ")
-print()
+
 print("Hello", name+"!", "Your ability to", superpower, "will make sure you never have to look at", enemy_name, "again.")
 print("Go eat", food, "as you walk down the streets of", area, "and use", superpower, "for good and not evil!")
 
